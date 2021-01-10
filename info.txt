@@ -1,1 +1,3 @@
 Agregando info.
+
+Agregando info con -a -m mensaje, hace el add y commit juntos.
