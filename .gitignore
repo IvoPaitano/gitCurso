@@ -1,4 +1,6 @@
 sinRelevancia.txt
 logs/*
+!logs/carpetaB/*
+!logs/.getkeep
 config.json
 comandosgit.txt
