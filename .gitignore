@@ -1,6 +1,6 @@
 sinRelevancia.txt
 logs/*
 !logs/carpetaB/*
-!logs/ .gitkeep
+!logs/.gitkeep
 config.json
 comandosgit.txt
